@@ -1,2 +1,7 @@
 # check_bypass
-Checking for access to site by origin ip.
+Checking access with discovered ips.
+
+# Usage
+```sh
+./check_bypass.sh ips_file.txt domains.file
+```
